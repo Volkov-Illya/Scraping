@@ -12,7 +12,7 @@
     "bluebird": "^3.4.7",
     "express": "latest",
     "lodash": "^4.17.4",
-    "mongoose": "latest",
+    "mongoose": "5.7.5",
     "request": "^2.79.0"
   },
   "devDependencies": {
